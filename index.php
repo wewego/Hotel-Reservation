@@ -22,7 +22,7 @@
 		   		</select>
 
 			<br>
-			<input name="next" type="submit" class="form-control submit" value="Next">
+			<input name="next" type="submit" class="form-control submit" value="Next" formaction="hotel.php">
 
 
 		</form>
