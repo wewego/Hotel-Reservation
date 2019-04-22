@@ -13,7 +13,7 @@
 
 
 	   	<div class="contact-form">
-		<form id = "contact-form" method="post" action="info.php">
+		<form id = "contact-form" method="post" action="roomOptions.php">
 	   	<select class="contact-form" required name = "hotel">
 					<option value="" disabled selected>Hotel</option>
 					<option>Sharm El Sheikh ex Royal Grand Azure</option>
@@ -21,7 +21,7 @@
 					<option>Aracan Pyramids Hotel</option>
 		   		</select>
 		   		<br>
-		   		<input name="next" type="submit" class="price_reservation" value="Back" formaction = "reservation.php" formnovalidate>
+		   		<input name="back" type="submit" class="price_reservation" value="Back" formaction = "index.php" formnovalidate>
 		   		<input name="next" type="submit" class="price_reservation" value="Next">
 
 		   		</form>
