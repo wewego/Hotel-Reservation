@@ -9,26 +9,25 @@
 		<h1>Trivago</h1>
 		<h2>We are always ready to serve you!</h2>
 	</div>
-	<?php
 
 
 	   	<div class="contact-form">
 		<form id = "contact-form" method="post" action="info.php">
 	   	<select class="contact-form" required name = "type">
 					<option value="" disabled selected>Type</option>
-					<option>Room/option>
+					<option>Room</option>
 					<option>Suite</option>
 		   		</select>
 		   		<br>
           <select class="contact-form" required name = "type">
             <option value="" disabled selected>single or double</option>
-            <option>Single/option>
+            <option>Single</option>
             <option>Double</option>
             </select>
             <br>
             <select class="contact-form" required name = "time">
               <option value="" disabled selected>time</option>
-              <option>1 day/option>
+              <option>1 day</option>
               <option>2 days</option>
               <option>3 days</option>
               <option>4 days</option>
@@ -37,7 +36,7 @@
               <option>7 days</option>
               </select>
               <br>
-		   		<input name="back" type="submit" class="price_reservation" value="Back" formaction = "info.php" formnovalidate>
+		   		<input name="back" type="submit" class="price_reservation" value="Back" formaction = "hotel.php" formnovalidate>
 		   		<input name="next" type="submit" class="price_reservation" value="Next">
 
 		   		</form>

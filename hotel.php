@@ -9,7 +9,6 @@
 		<h1>Trivago</h1>
 		<h2>We are always ready to serve you!</h2>
 	</div>
-	<?php
 
 
 	   	<div class="contact-form">
@@ -26,6 +25,7 @@
 
 		   		</form>
 		   		</div>
+
 
 </body>
 </html>
