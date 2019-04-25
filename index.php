@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Trivago</title>
+	<title>Reservation</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<div class = "contact-title">
-		<h1>Trivago</h1>
+		<h1>Hotel-Reservation</h1>
 		<h2>We are always ready to serve you!</h2>
 	</div>
 	<div class="contact-form">

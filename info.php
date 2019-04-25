@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Trivago</title>
+	<title>Hotel-Reservation</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<div class = "contact-title">
-		<h1>Trivago</h1>
+		<h1>Hotel-Reservation</h1>
 		<h2>We are always ready to serve you!</h2>
 	</div>
 	<form id = "contact-form" method="post" action="contact-form-handler.php">
@@ -21,7 +21,7 @@
 			<br>
 			<input type="text" name="ID" class="form-control" placeholder="ID" required>
 			<br>
-		
+
 		   	<input type="text" name="credit card" class="form-control" placeholder="Credit Card" required>
 		   	<br>
 		   	<input type="password" name="password" class="form-control" placeholder="password" required>
