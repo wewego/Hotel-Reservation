@@ -21,12 +21,7 @@
 			<br>
 			<input type="text" name="ID" class="form-control" placeholder="ID" required>
 			<br>
-			<select class="contact-form" required name = "typeRoom">
-					<option value="" disabled selected>Type</option>
-					<option>Room</option>
-					<option>suite</option>
-		   		</select>
-		   	<br>
+		
 		   	<input type="text" name="credit card" class="form-control" placeholder="Credit Card" required>
 		   	<br>
 		   	<input type="password" name="password" class="form-control" placeholder="password" required>
@@ -35,7 +30,7 @@
 			<textarea name="comment" class="form-control" placeholder="Any comments" row = "4"></textarea><br>
 		<input name="submit" type="submit" class="form-control submit" value="submit" formaction="contact-form-handler.php">
 	</form>
-	
+
 
 </body>
 </html>
