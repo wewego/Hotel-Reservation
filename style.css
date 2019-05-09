@@ -5,9 +5,9 @@ body
 	text-align: center;
 	color: #fff;
 
-    background: url(pic2.jpg) no-repeat center center fixed; 
+    background: url(pic2.jpg) no-repeat center center fixed;
     background-size: cover;
-	
+
 	font-family: sans-serif;
 }
 .contact-title
@@ -87,4 +87,12 @@ select
 	height: 50px;
 	margin-top: 20px;
 	cursor: pointer;
+}
+ul.images li {
+    width: 200px;
+    display: inline-block;
+}
+img
+{
+	width: 250px;
 }

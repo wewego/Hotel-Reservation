@@ -1,4 +1,4 @@
 <?php
-   define('EMAIL' , 'ahmedabdo98@example.com');
-   define('PASS' , '452');
+   define('EMAIL' , 'ahmedabdo9864@gmail.com');
+   define('PASS' , 'zeroesandones');
 ?>
